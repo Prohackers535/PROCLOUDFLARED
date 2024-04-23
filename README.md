@@ -17,7 +17,7 @@ This tool is created by:
 - **Configer Cloudflared with localhost**
 - **Easy To Use This Tool**
 
-
+# Instalation 
 
 ```
 $ cd $HOME
