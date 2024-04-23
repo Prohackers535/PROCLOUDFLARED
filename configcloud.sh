@@ -1,7 +1,8 @@
 #!/bin/bash
 
 figlet -f slant "GCSST" | lolcat && figlet -f term "Coded By: AbdulFasith" | lolcat
-sleep 2
+echo -e "https://github.com/Prohackers535"
+sleep 3
 
 read -p $'\n\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Enter Your port: \e[0m' port
 
